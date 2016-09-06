@@ -1,0 +1,68 @@
+.orig32-home-image {
+  max-width: 75%;
+  -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+  filter: grayscale(100%) brightness(135%);
+}
+
+.orig32-top-nav-container {
+  border-bottom: 1px solid #000000;
+}
+
+.orig32-navbar-text1 {
+  font-size: 50px;
+  color: #000000;
+}
+
+.orig32-navbar-text2 {
+  font-size: 50px;
+  color: #999999;
+}
+
+.orig32-navbar-text3 {
+  line-height: 1px;
+  font-size: 16px;
+}
+
+.orig32-header-text1 {
+  color: #000000;
+}
+
+.orig32-header-text2 {
+  color: #999999;
+}
+
+.orig32-header-text3 {
+  color: #000000;
+}
+
+body {
+	padding-top: 25px; 
+}
+
+.nav-pills>li>a {
+	color: #999999;
+	background-color: transparent;
+}
+
+.nav-pills>li.active>a {
+	color: #333333;
+	background-color: transparent;
+}
+
+.nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	color: #333333;
+	background-color: #eeeeee;
+}
+
+.orig32-header-container {
+  max-width: 75%;
+  border-bottom: 1px solid #000000;
+  text-align: center;
+}
+
+
+.orig32-body-container {
+  max-width: 75%;
+  border-bottom: 1px solid #000000;
+  padding: 40px 50px;
+}
